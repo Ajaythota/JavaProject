@@ -21,7 +21,7 @@ public class ArrayLinkedList {
 
 
              }
-         System.out.println("highest glass hour:  " + sum);
+         System.out.println("Highest glass hour:" + sum);
 
 
     }
