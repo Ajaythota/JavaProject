@@ -8,7 +8,7 @@ public class LambdaExp001 {
         ArrayList<Integer> ld1 = new ArrayList<Integer>();
 int a=3;
 int b=2;
-       for ( int i=0;i<10;i++)
+       for ( int i=0;i<11;i++)
            ld1.add(i*3);
          ld1.forEach( n-> {System.out.println(n);});
 
